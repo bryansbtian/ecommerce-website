@@ -1,0 +1,99 @@
+.fresh-flowers-home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    height: 90vh;
+    margin-bottom: 75px;
+}
+
+.fresh-flowers-home h1{
+    color: #171717;
+    font-size: 45px;
+    font-weight: 500;
+}
+
+.fresh-flowers-home hr{
+    width: 200px;
+    border-radius: 10px;
+    background: #252525;
+}
+
+.fresh-flowers-home-item{
+    margin-top: 30px;
+    display: flex;
+    gap: 75px;
+}
+
+@media(max-width:1280px) {
+    .fresh-flowers-home{
+        height: 70vh;
+        margin-bottom: 50px;
+    }
+
+    .fresh-flowers-home h1{
+        font-size: 40px;
+    }
+
+    .fresh-flowers-home hr{
+        width: 160px;
+    }
+
+    .fresh-flowers-home-item{
+        gap: 20px;
+        margin-top: 30px;
+    }
+}
+
+@media(max-width:1024px) {
+    .fresh-flowers-home{
+        height: 60vh;
+        margin-bottom: 30px;
+    }
+
+    .fresh-flowers-home h1{
+        font-size: 30px;
+    }
+
+    .fresh-flowers-home hr{
+        width: 120px;
+    }
+
+    .fresh-flowers-home-item{
+        gap: 15px;
+        margin-top: 20px;
+    }
+}
+
+@media(max-width:800px) {
+    .fresh-flowers-home{
+        height: 50vh;
+        gap: 6px;
+        margin-bottom: 20px;
+    }
+
+    .fresh-flowers-home h1{
+        font-size: 20px;
+    }
+
+    .fresh-flowers-home hr{
+        width: 100px;
+    }
+
+    .fresh-flowers-home-item{
+        gap: 20px;
+    }
+}
+
+@media(max-width:500px) {
+    .fresh-flowers-home{
+        height: 90vh;
+        gap: 6px;
+    }
+
+    .fresh-flowers-home-item{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+    }
+}
