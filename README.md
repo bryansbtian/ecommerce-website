@@ -28,6 +28,6 @@ Welcome to the E-commerce Website repository! This project is a fully functional
 ---
 
 ## Live Demo
-- **E-commerce Website:** [Website Video](https://drive.google.com/drive/u/0/folders/1z4OxWb1G6KDFPp-xhMeO4HWR4OCrBdAU)
-- **Admin Panel:** [Admin Panel Video](https://drive.google.com/drive/u/0/folders/1z4OxWb1G6KDFPp-xhMeO4HWR4OCrBdAU)
+- **E-commerce Website:** [Website Video](https://drive.google.com/file/d/1-fLPKxnlqKoaH-uD8GabgmGb0vkV0GT_/view?t=3)
+- **Admin Panel:** [Admin Panel Video](https://drive.google.com/file/d/1bI7B0Y8neaL_bc53eqT76PPxMGENfksk/view)
 
